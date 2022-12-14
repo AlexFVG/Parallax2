@@ -73,16 +73,16 @@ body, html {
 }
  
 .fundo1::before{
-    background-image: url(/img/1111.jpg);
+    background-image: url(img/1111.jpg);
 
 }
 
 .fundo2::before{
-    background-image: url(/img/12.jpg);
+    background-image: url(img/12.jpg);
 }
 
 .fundo3::before{
-    background-image: url(/img/10.jpg);
+    background-image: url(img/10.jpg);
 }
 
 .iri{
